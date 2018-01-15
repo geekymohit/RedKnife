@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Redknife:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Redknife_jar</output-path>
+    <root id="archive" name="Redknife.jar">
+      <element id="module-output" name="Redknife" />
+    </root>
+  </artifact>
+</component>
